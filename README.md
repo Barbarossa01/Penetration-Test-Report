@@ -27,10 +27,10 @@ Each vulnerability includes:
 
 ## 📁 Files
 
-- `Report.pdf` – Full penetration testing report (nicely formatted)
+- `SecurityAssessmentReport_CodeNimbus_Systems.pdf` – Full penetration testing report
 - `screenshots/` – Proof-of-concept evidence
 - `readme.md` – This file
-- `report.docx` (optional) – Editable version
+
 
 ## 🧠 Purpose
 
